@@ -93,7 +93,7 @@
       "<rootDir>/test/jest-pretest.js"
     ],
     "testEnvironment": "node",
-    "collectCoverage": true,
+    "collectCoverage": false,
     "collectCoverageFrom": [
       "src/**/*.{js,ts}",
       "!**/*.spec.{js,ts}",
