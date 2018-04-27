@@ -32,3 +32,4 @@ scripts
 
 # Test coverage reports
 test/coverage-jest
+test/coverage-karma
